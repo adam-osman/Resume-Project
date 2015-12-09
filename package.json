@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/adam-osman/Resume-Project/issues"
   },
-  "homepage": "https://github.com/adam-osman/Resume-Project#readme"
+  "homepage": "https://github.com/adam-osman/Resume-Project#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  }
 }
